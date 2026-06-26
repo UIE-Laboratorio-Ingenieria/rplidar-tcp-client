@@ -1,10 +1,10 @@
-[![CI](https://github.com/PabloTarrio/rplidar-tcp-client/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/PabloTarrio/rplidar-tcp-client/actions/workflows/ci.yml)
+[![CI](https://github.com/UIE-Laboratorio-Ingenieria/rplidar-tcp-client/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/UIE-Laboratorio-Ingenieria/rplidar-tcp-client/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/rplidar-tcp-client.svg)](https://pypi.org/project/rplidar-tcp-client/)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/rplidar-tcp-client.svg)](https://pypistats.org/packages/rplidar-tcp-client)
 [![License](https://img.shields.io/pypi/l/rplidar-tcp-client.svg)](https://pypi.org/project/rplidar-tcp-client/)
 [![Python](https://img.shields.io/pypi/pyversions/rplidar-tcp-client.svg)](https://pypi.org/project/rplidar-tcp-client/)
 [![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
-[![Coverage](https://img.shields.io/badge/coverage-88%25-brightgreen.svg)](https://github.com/PabloTarrio/rplidar-tcp-client)
+[![Coverage](https://img.shields.io/badge/coverage-88%25-brightgreen.svg)](https://github.com/UIE-Laboratorio-Ingenieria/rplidar-tcp-client)
 
 # rplidar-tcp-client
 
@@ -445,6 +445,8 @@ Lee [CONTRIBUTING.md](/CONTRIBUTING.md) para conocer el workflow de desarrollo.
 ## Licencia
 
 Este proyecto está bajo licencia MIT. Ver [LICENSE](/LICENSE) para más detalles
+
+Proyecto iniciado por Pablo M. Tarrío Guirao, actualmente desarrollado y mantenido por el Laboratorio de Ingeniería de la UIE Universidad Intercontinental de la Empresa.
 
 ## Documentacion adicional
 

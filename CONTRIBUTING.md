@@ -266,7 +266,9 @@ Si usas esta librería en tu TFG/TFM:
 
 * Issues: Pra bugs, sugerencias, preguntas técnicas
 * Dicussions: Para preguntas generales, casos de uso
-* Email: [Laboratorio UIE - Coruña](mailto:pablo.tarrio@uie.edu) para temas privados.
+* Email: [Laboratorio UIE - Coruña](mailto:laboratorio.ingenieria@uie.edu) para temas privados.
+
+Este proyecto es mantenido por el **Laboratorio de Ingeniería de la UIE Universidad Intercontinental de la Empresa**.
 
 ## Licencia
 
