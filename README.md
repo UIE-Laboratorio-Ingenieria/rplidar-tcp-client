@@ -61,7 +61,7 @@ client.disconnect()
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/PabloTarrio/rplidar-tcp-client.git
+git clone https://github.com/UIE-Laboratorio-Ingenieria/rplidar-tcp-client.git
 cd rplidar-tcp-client
 
 # Crear entorno virtual
@@ -162,7 +162,7 @@ python examples/lidar_to_csv.py --revs 5 --out datos.csv
 ### 1. En tu PC (cliente)
 
 ```bash
-git clone https://github.com/PabloTarrio/rplidar-tcp-client.git
+git clone https://github.com/UIE-Laboratorio-Ingenieria/rplidar-tcp-client.git
 cd rplidar-tcp-client
 python3 -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
