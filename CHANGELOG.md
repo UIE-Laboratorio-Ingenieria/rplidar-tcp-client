@@ -228,3 +228,7 @@ pip install "rplidar-tcp-client[visualization]"
 ### Added
 - Initial repository structure
 - Test branch protection
+
+---
+
+Todas las versiones de este proyecto son mantenidas por el **Laboratorio de Ingeniería de la UIE Universidad Intercontinental de la Empresa**.

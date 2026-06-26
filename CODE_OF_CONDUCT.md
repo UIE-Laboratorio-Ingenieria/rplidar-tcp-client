@@ -36,6 +36,8 @@ Este Código de Conducta aplica tanto dentro de los espacios del proyecto como e
 
 Casos de comportamiento abusivo, acosador o inaceptable pueden ser reportados contactando al equipo del proyecto. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta apropiada a las circunstancias. El equipo está obligado a mantener confidencialidad respecto al reporte de un incidente.
 
+En el contexto de este repositorio, el “equipo del proyecto” corresponde al **Laboratorio de Ingeniería de la UIE Universidad Intercontinental de la Empresa**.
+
 ## Atribución
 
 Este Código de Conducta es una adaptación del [Contributor Covenant](https://www.contributor-covenant.org), versión 2.0.

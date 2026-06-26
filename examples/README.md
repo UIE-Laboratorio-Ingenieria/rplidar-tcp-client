@@ -1,6 +1,6 @@
 # Ejemplos de uso de lidarclient
 
-Esta carpeta contiene ejemplos prácticos de cómo usar la librería `lidarclient` para conectarse al servidor LIDAR TCP en la Raspberry Pi.
+Esta carpeta contiene ejemplos prácticos de cómo usar la librería `lidarclient` para conectarse al servidor LIDAR TCP en la Raspberry Pi, desarrollados para las actividades de enseñanza e investigación del **Laboratorio de Ingeniería de la UIE Universidad Intercontinental de la Empresa**.
 
 ## Requisitos previos
 

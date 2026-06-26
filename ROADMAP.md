@@ -1,6 +1,6 @@
 # Roadmap del Proyecto - RPLIDAR A1 TCP Client
 
-Documento vivo que refleja el estado actual y los próximos pasos del proyecto.
+Documento vivo que refleja el estado actual y los próximos pasos del proyecto, desarrollado por el **Laboratorio de Ingeniería de la UIE Universidad Intercontinental de la Empresa**.
 
 ---
 
