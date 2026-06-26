@@ -106,6 +106,7 @@ try:
             # Detener escaneo cuando el cliente se desconecta
             print("  → Deteniendo escaneo del LIDAR...")
             lidar.stop()
+            lidar.stop_motor()
             time.sleep(0.5)  # Pequeña pausa para limpiar buffer
 
 except KeyboardInterrupt:
@@ -113,6 +114,7 @@ except KeyboardInterrupt:
 finally:
     servidor.close()
     lidar.stop()
+    lidar.stop_motor()
     lidar.disconnect()
     print("=" * 60)
     print("Servidor cerrado correctamente")
